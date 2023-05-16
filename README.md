@@ -36,6 +36,6 @@ Este projeto está licenciado sob a [MIT License](https://opensource.org/license
 
 ## Recursos úteis
 
-- [Gulp.js Documentation](https://gulpjs.com/docs/en/getting-started)
+- [Gulp.js Documentation](https://gulpjs.com/docs/en/getting-started/quick-start)
 - [BrowserSync Documentation](https://browsersync.io/docs)
 
