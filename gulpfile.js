@@ -25,7 +25,7 @@ gulp.task(
     gulp.watch(["src/scss/*.scss"], gulp.parallel(["sass"]));
 
     gulp
-      .watch(["src/*.html", "src/css/*.css"])
+      .watch(["src/*.html", "src/scss/*.scss", "src/css/*.css"])
       .on("change", gulp.parallel(browsersync.reload));
   }),
 );

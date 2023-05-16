@@ -1,6 +1,6 @@
 # Gulp.js + BrowserSync: Automatizando a compilação de SCSS e atualização ao vivo
 
-Este repositório contém um projeto básico configurado com Gulp.js e BrowserSync para automatizar a compilação de arquivos SCSS em CSS e atualizar o navegador em tempo real sempre que houver alterações.
+Este repositório contém um projeto básico configurado com Gulp.js, Sass e BrowserSync para automatizar a compilação de arquivos SCSS em CSS e atualizar o navegador em tempo real sempre que houver alterações.
 
 ## Requisitos
 
@@ -10,15 +10,11 @@ Certifique-se de ter o Node.js instalado em seu sistema antes de prosseguir.
 
 1. Clone este repositório em sua máquina local.
 2. Navegue até o diretório do projeto.
-3. Execute o seguinte comando para instalar as dependências:
-
-Use o comando `npm install` para instalar as dependências.
+3. Execute o seguinte comando para instalar as dependências: Use o comando `npm install` para instalar as dependências.
 
 ## Uso
 
-Execute o seguinte comando para iniciar o servidor de desenvolvimento.
-
-`gulp`
+Execute o seguinte comando para iniciar o servidor de desenvolvimento: `gulp`
 
 Isso compilará os arquivos SCSS em CSS, iniciará o servidor local com BrowserSync e abrirá automaticamente o navegador. Agora, sempre que você fizer alterações nos arquivos SCSS, o Gulp.js irá compilá-los e o BrowserSync irá atualizar o navegador em tempo real.
 
