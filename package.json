@@ -1,0 +1,18 @@
+{
+  "name": "card",
+  "version": "1.0.0",
+  "description": "Configuração de projeto com scss para gerar o arquivo css que o navegador entene automáticamente com gulp.js\r Pré requisito ter instalado o nodeJs vou deixar o link de como instalar na descrição\r 1. estruitura de pastas",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.29.1",
+    "gulp": "^4.0.2",
+    "gulp-sass": "^5.1.0",
+    "sass": "^1.62.1"
+  }
+}
